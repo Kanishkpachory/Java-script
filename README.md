@@ -127,4 +127,4 @@ GitHub Pages: To host the project.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-This readme is comprehensive and includes a table of contents to guide users through your project, along with concise explanations for each chapter.
+This readme is comprehensive and includes a table of contents to guide users through my project, along with concise explanations for each chapter.
